@@ -1,6 +1,6 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="メロス"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
@@ -24,7 +24,7 @@
 
 [cm]
 
-[bg storage=sleep.jpg time=500]
+[bg storage=xmas.jpeg time=500]
 
 メロスは死んだように深く眠った。[l][r]
 勇者は、ひどく赤面した。[r]
